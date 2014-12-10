@@ -1,5 +1,0 @@
-Manifest-Version: 1.0
-Implementation-Title: spring-tx
-Implementation-Version: 3.2.11.RELEASE
-Created-By: 1.7.0_67 (Oracle Corporation)
-
